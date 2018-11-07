@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css?family=K2D');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+
+Alice Blue
+#F7F8F9
+
+Bondi Blue
+#119EAF
+
+Mystic
+#D7DEDB
+
+Light Sea Green
+#1CB2BE
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: blue;
+  font-family: 'K2D', sans-serif;
+}
+
+.navbar{
+  background-color:#005e7c !important;
+}
+
+li, a{
+  font-size: 18px !important;
+}
+.logo{
+  font-size: 25px !important;
+}
+
+.brand-logo{
+  margin-left: 15px !important;
+  font-family: 'Arvo', serif;
+}
+
+.introtext{
+  font-size: 40px !important;
+  color: black;
+  margin-top: 60px;
+}
+
+.input-field{
+  width: 50% !important;
+  margin-left: 25% !important;
+  margin-right: 25% !important;
+}
+
+#search-btn{
+  float: right;
+  background-color: #0094c6 !important;
+  margin-top: 10px;
+}
